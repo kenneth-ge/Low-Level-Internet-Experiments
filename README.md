@@ -14,3 +14,6 @@ This is something I used to implement UDP hold punching for some P2P type stuff.
 
 ## Networking Util
 Just some utilities I wrote for the other projects here, including easier I/O etc.
+
+## DNS with Bit-Level Compression
+This is a more "hardcore" version of DNS and Text, which uses bit-level compression and other techniques to hyper-optimize the code. Of course, given that this is written in Java, a better approach would have been to write this in C or C++ -- but the point of this exercise was fun and theoretical exploration, and I believe it serves the purpose well enough. 
